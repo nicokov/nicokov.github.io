@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on N. Kovensky </title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on N. Kovensky </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>$1/N$ corrections to $F_1$ and $F_2$ structure functions of vector mesons from holography</title>
+      <link>/publication/paper7/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep inelastic scattering from polarized spin-$1/2$ hadrons at low $x$ from string theory</title>
+      <link>/publication/paper6/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIS off glueballs from string theory: the role of the chiral anomaly and the Chern-Simons term</title>
+      <link>/publication/paper5/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep inelastic scattering off scalar mesons in the $1/N$ expansion from the D3D7-brane system</title>
+      <link>/publication/paper4/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards $1/N$ corrections to deep inelastic scattering from the gauge/gravity duality</title>
+      <link>/publication/paper3/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep inelastic scattering cross sections from the gauge/string duality</title>
+      <link>/publication/paper2/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hadron structure functions at small $x$ from string theory</title>
+      <link>/publication/paper1/</link>
+      <pubDate>Fri, 19 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
